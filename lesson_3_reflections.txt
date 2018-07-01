@@ -1,0 +1,10 @@
+When you would you to create a remote repository rather than keeping all your work local?
+
+* When I want to make it public.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+* The remote repository might have a partial commit that might now work completely by it's own. 
+And if your local repository keeps changing automatically, that might cause you some confusion when 
+you are working on your own local changes.
